@@ -1,0 +1,18 @@
+Create Project :
+npx create-expo-app sampleproject.
+cd sampleproject
+npm start
+
+Download App : 
+Expo in Mobile
+
+extensions in vs code
+ES7+ React/Redux/React-Native 
+vscode-icons
+
+
+Before Start install in vs code :
+npm run reset-project (Remove defult code) ask give n
+npx expo install
+npx expo install react-native-app-write react-native-url-polyfill
+npx expo start
