@@ -15,4 +15,5 @@ Before Start install in vs code :
 npm run reset-project (Remove defult code) ask give n
 npx expo install
 npx expo install react-native-app-write react-native-url-polyfill
+npx expo install react-native-paper
 npx expo start
