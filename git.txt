@@ -3,7 +3,7 @@ git:
 git init  
 git config --global user.name "LogeshITHub"
 git config --global user.email "logesh24it@gmail.com"
-git remote add origin https://github.com/LogeshITHub/LearnBasicNextjs3.git
+git remote add origin https://github.com/LogeshITHub/reactnative.git
 git add . 
 git commit -m "Added project files"
 git push -u origin master
